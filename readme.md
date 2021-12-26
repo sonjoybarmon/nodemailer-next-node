@@ -20,8 +20,7 @@ Open [http://localhost:3001/api/test](http://localhost:3001/api/test) with your 
 
 Follow Lectures at [Youtube](https://www.youtube.com/channel/UCBA_4Q-Gk4bJxRrtpfdvTzw) with your browser to test API Server
 
-
-![image](https://user-images.githubusercontent.com/60999976/147411184-58047311-bd78-4611-b2bd-a30a83f1ffdd.png)
+![image](https://user-images.githubusercontent.com/60999976/147411305-729dc8d5-621d-4acb-8759-8a47891210a2.png)
 
 ![image](https://user-images.githubusercontent.com/60999976/147411187-72cdd6d6-5e56-432d-a072-b25dad4f1a3b.png)
 
