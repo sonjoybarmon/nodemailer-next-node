@@ -24,3 +24,8 @@ Open [http://localhost:3001/api/test](http://localhost:3001/api/test) with your 
 
 ![image](https://user-images.githubusercontent.com/60999976/147411197-a9715a4b-1936-430c-a961-abe5d5de0e3a.png)
 
+### Confirm Email
+
+![image](https://user-images.githubusercontent.com/60999976/147411458-b5761717-e278-43cb-9eea-5db5284b92c6.png)
+
+
